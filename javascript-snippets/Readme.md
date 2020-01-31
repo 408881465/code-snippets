@@ -1,0 +1,3 @@
+﻿
+- [using-javascript-mqtt-client-websockets](http://www.steves-internet-guide.com/using-javascript-mqtt-client-websockets/)
+- [submitting html form without reload the page]（https://www.codexpedia.com/javascript/submitting-html-form-without-reload-the-page/）
