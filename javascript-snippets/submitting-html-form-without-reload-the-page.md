@@ -1,4 +1,4 @@
-[submitting html form without reload the page]（https://www.codexpedia.com/javascript/submitting-html-form-without-reload-the-page/）
+[submitting html form without reload the page](https://www.codexpedia.com/javascript/submitting-html-form-without-reload-the-page/)
 Sometimes, when a form is submitted, you don’t want to reload the page, instead you want to execute a javascript function only. Here are ways of executing a javascript function on form submit without reload the html page. **return false**; is the key to prevent the from to reolad the html page.
 
 ###### 1. When this html form is submitted, it will call the javascript function yourJsFunction(), but it won’t reload the page.
