@@ -27,4 +27,5 @@
   },
    ``` 
 - [Fork and patch npm moduels hosted on GitHub](https://coderwall.com/p/q_gh-w/fork-and-patch-npm-moduels-hosted-on-github) 
+- [how-to-use-fork-version-of-npm-package-in-a-project](https://stackoverflow.com/questions/47122349/how-to-use-fork-version-of-npm-package-in-a-project) 
 
