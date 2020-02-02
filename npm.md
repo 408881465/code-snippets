@@ -26,3 +26,5 @@
     "hashish": "0.0.4"
   },
    ``` 
+- [Fork and patch npm moduels hosted on GitHub](https://coderwall.com/p/q_gh-w/fork-and-patch-npm-moduels-hosted-on-github) 
+
