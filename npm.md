@@ -1,0 +1,5 @@
+- publish a package 
+   - npm init
+   - npm install
+   - npm login
+   - npm publish --access public
