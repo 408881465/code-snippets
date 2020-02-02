@@ -1,5 +1,5 @@
 - publish a package 
    - npm init
    - npm install
-   - npm login
+   - npm login  //input username passward
    - npm publish --access public
