@@ -1,4 +1,4 @@
-- publish a package 
+- [Creating a scoped public npm package](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages)
    - npm init
    - npm install
    - npm login  //input username passward
