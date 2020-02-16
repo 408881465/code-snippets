@@ -5,7 +5,7 @@
 - [Declaring JavaScript global variable within function](https://www.javatpoint.com/javascript-global-variable)
 
 #### Scripts
-- (how-can-i-export-a-directory-structure-in-windows)[https://superuser.com/questions/258287/how-can-i-export-a-directory-structure-in-windows]
+- [how-can-i-export-a-directory-structure-in-windows](https://superuser.com/questions/258287/how-can-i-export-a-directory-structure-in-windows)
 ``` shell
 tree /A /f ["directory path"] > tree.txt
 ``` 
