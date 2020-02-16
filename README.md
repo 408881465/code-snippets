@@ -9,4 +9,4 @@
 ``` shell
 tree /A /f ["directory path"] > tree.txt
 ``` 
-- (open-powershell-window-here-context-menu-add-windows-10)[https://www.tenforums.com/tutorials/60175-open-powershell-window-here-context-menu-add-windows-10-a.html]
+- [open-powershell-window-here-context-menu-add-windows-10](https://www.tenforums.com/tutorials/60175-open-powershell-window-here-context-menu-add-windows-10-a.html)
