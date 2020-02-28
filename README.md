@@ -10,3 +10,29 @@
 tree /A /f ["directory path"] > tree.txt
 ``` 
 - [open-powershell-window-here-context-menu-add-windows-10](https://www.tenforums.com/tutorials/60175-open-powershell-window-here-context-menu-add-windows-10-a.html)
+
+### Javascript ES6 sort a array
+```JavaScript
+var homes = [
+    {
+        "h_id": "3",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75201",
+        "price": "162500"
+    }, {
+        "h_id": "4",
+        "city": "Bevery Hills",
+        "state": "CA",
+        "zip": "90210",
+        "price": "319250"
+    }, {
+        "h_id": "5",
+        "city": "New York",
+        "state": "NY",
+        "zip": "00010",
+        "price": "962500"
+    }
+];
+
+```
