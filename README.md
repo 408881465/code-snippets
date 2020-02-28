@@ -34,5 +34,6 @@ var homes = [
         "price": "962500"
     }
 ];
-
+//根据数组数值降序排列数组
+homes.sort((a, b) => parseFloat(b.price) - parseFloat(a.price));
 ```
